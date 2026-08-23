@@ -1,6 +1,0 @@
-{
-  "name": "小荷才露妙脆角 - AI 独立创作者 & Vibe Coder",
-  "description": "小荷才露妙脆角 (Crispy Lotus) 的个人主页与 Vibe Coding 作品集。涵盖完形填空极速背诵记忆工具、AI 灵感调色盘、生活哲学、心流手账与野生创作者空间。",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
