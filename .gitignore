@@ -6,3 +6,11 @@ coverage/
 *.log
 .env*
 !.env.example
+
+# local debug logs
+*.txt
+push_log.txt
+
+# local debug logs
+*.txt
+push_log.txt
